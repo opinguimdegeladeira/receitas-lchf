@@ -1,7 +1,7 @@
 # Brócolis ao molho de gorgonzola
 
 
-# # Rendimento
+# Rendimento
 * Cobre um brócolis pequeno.
 
 ## Ingredientes
