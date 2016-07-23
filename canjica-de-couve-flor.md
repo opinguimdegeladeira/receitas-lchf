@@ -1,6 +1,6 @@
 # Mingau de couve flor / Canjica Fake
 
-![Canjica Fake](images/canjica-fake.jpg)
+![Canjica Fake](images/cajica-fake.jpg)
 
 ## Ingredientes
 
