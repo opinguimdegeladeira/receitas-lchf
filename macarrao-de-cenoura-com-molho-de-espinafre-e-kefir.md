@@ -1,6 +1,6 @@
 # Macarrão de cenoura com molho branco de kefir e espinafre
 
-![macarrão de cenoura com molho branco de kefir e espinafre](macarrao-de-cenoura-com-molho-de-espinafre-e-kefir.jpg)
+![macarrão de cenoura com molho branco de kefir e espinafre](images/macarrao-de-cenoura-com-molho-de-espinafre-e-kefir.jpg)
 
 ## Ingredientes
 
