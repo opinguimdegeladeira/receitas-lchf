@@ -1,5 +1,7 @@
 # Modelo
 
+![alt da imagem](images/nome-da-imagem.jpg)
+
 ## Ingredientes
 
 * _quantidade_ de _item_
