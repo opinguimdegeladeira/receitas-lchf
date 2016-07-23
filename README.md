@@ -14,7 +14,7 @@
 
 * [Brócolis ao molho de gorgonzola](brocolis-ao-molho-de-gorgonzola.md)
 * [Pão LCHF](pao-low-carb-dr-souto.md)
-* [Macarrão de cenoura com molho branco de kefir](macarrao-de-cenoura-com-molho-de-kefir.md)
+* [Macarrão de cenoura com molho branco de kefir](macarrao-de-cenoura-com-molho-de-espinafre-e-kefir.md)
 
 ### 🍴 Neutros
 
