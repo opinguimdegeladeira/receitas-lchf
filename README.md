@@ -6,6 +6,7 @@
 * [Brownie de banana](brownie-de-banana.md)
 * [Mousse de pêssego com chia](mousse-de-pessego-com-chia.md)
 * [Queijadinha](queijadinha.md)
+* [Queijadinha Versão Bolo Genérico](queijadinha-versao-bolo-generico.md)
 * [Bolinho Base da Michelly](bolinho-base.md)
 * [Bolo/Brownie de Farinha de avelã e chocolate 70%](bolo-brownie-chocolate-michelly.md)
 * [Mingau de couve flor / Canjica fake](canjica-de-couve-flor.md)
