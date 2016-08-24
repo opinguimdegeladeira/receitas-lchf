@@ -17,6 +17,7 @@
 * [Pão LCHF](pao-low-carb-dr-souto.md)
 * [Macarrão de cenoura com molho branco de kefir](macarrao-de-cenoura-com-molho-de-espinafre-e-kefir.md)
 * [Arroz de Couve-flor](arroz-couve-flor.md)
+* [Omelete de Forno](omelete-de-forno.md)
 
 ### 🍴 Neutros
 
