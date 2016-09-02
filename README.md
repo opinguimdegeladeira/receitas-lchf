@@ -10,6 +10,7 @@
 * [Bolinho Base da Michelly](bolinho-base.md)
 * [Bolo/Brownie de Farinha de avelã e chocolate 70%](bolo-brownie-chocolate-michelly.md)
 * [Mingau de couve flor / Canjica fake](canjica-de-couve-flor.md)
+* [Morango com creme de leite](morango-com-creme-de-leite.md)
 
 ### 🍳 Salgados
 
