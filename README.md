@@ -11,6 +11,7 @@
 * [Morango com creme de leite](morango-com-creme-de-leite.md)
 * [Mousse de pêssego com chia](mousse-de-pessego-com-chia.md)
 * [Queijadinha](queijadinha.md)
+* [Muffin de banana com manteiga de amendoim](muffin-de-banana-e-manteiga-de-amendoim)
 * [Queijadinha Versão Bolo Genérico](queijadinha-versao-bolo-generico.md)
 
 
