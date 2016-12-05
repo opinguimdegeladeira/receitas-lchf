@@ -24,6 +24,7 @@
 * [Macarrão de cenoura com molho branco de kefir](macarrao-de-cenoura-com-molho-de-espinafre-e-kefir.md)
 * [Pão LCHF](pao-low-carb-dr-souto.md)
 * [Omelete de Forno](omelete-de-forno.md)
+* [Lasanha de Berinjela](lasanha-de-berinjela.md)
 
 ### 🍴 Neutros
 
